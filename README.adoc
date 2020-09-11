@@ -1,0 +1,13 @@
+:title: Mograsim Documentation
+:keywords: tum, era, am2900, amd, microprogramming, teaching, assembler, simulator, modular, graphical, eclipse, plugin, processor, processor-architecture, processor-simulator, instruction-set-architecture
+:author: Mograsim Team
+:showtitle:
+
+= Mograsim Documentation
+
+These are the sources for the Mograsim documentation and website *https://mograsim.net*.
+
+The documentation is written in https://asciidoc.org[AsciiDoc] 
+and the main source file is link:src/asciidoc/index.adoc[here].
+
+The website and PDF can be created by executing `mvn compile`.
